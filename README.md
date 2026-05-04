@@ -20,6 +20,7 @@ The goal of this lab is not exploitation for its own sake, but understanding how
 * **Ubuntu Server**
    * Apache Web Server
    * Vulnerable Web Application (DVWA)
+   *Auditd
 * **Splunk SIEM**
    * Centralized log collection & alerting
 * **Kali Linux**
