@@ -1,21 +1,8 @@
 🎯 Objective
 Simulate a DLL hijacking attack where a malicious DLL is placed in a user-writable directory to be loaded by a legitimate application (calc.exe), establishing a Meterpreter reverse shell to the attacker.
 
-🏗️ Lab Environment
-┌─────────────────────────────────────────────────────────┐
-│                 192.168.100.0/24                        │
-│                                                         │
-│  ┌─────────────────┐      ┌──────────────────┐          │
-│  │  WIN10-CLIENT   │◄─────│   Kali Linux     │          │
-│  │  192.168.100.50 │:4444 │  192.168.100.54  │          │
-│  └────────┬────────┘      └──────────────────┘          │
-│           │ Sysmon EventCode 7                          │
-│           ▼                                             │
-│  ┌─────────────────┐                                    │
-│  │  Splunk SIEM    │                                    │
-│  │  192.168.100.51 │                                    │
-│  └─────────────────┘                                    │
-└─────────────────────────────────────────────────────────┘
+---
+
 
 ⚙️ Prerequisites
 
