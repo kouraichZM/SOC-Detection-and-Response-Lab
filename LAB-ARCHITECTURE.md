@@ -2,7 +2,7 @@
 
 ## Network Topology
 
-![SOC Lab Network Topology](./diagrams/soc_lab_topology.svg)
+![SOC Lab Network Topology](./soc_lab_topology.svg)
 
 
 
