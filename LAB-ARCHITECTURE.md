@@ -38,8 +38,8 @@
 - **RAM:** 4GB
 - **CPU:** 2 vCPUs
 - **Disk:** 50GB
-- **Domain Status:** Joined to lab.local
-- **User:** labuser@lab.local
+- **Domain Status:** Joined to CORP.local
+- **User:** kouraich@CORP.local
 - **Monitoring:**
   - Sysmon 15.0 (SwiftOnSecurity config)
   - Splunk Universal Forwarder 9.1.3
