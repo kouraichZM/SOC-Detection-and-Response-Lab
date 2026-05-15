@@ -162,12 +162,6 @@ Kali Attacker     → Generates traffic           → Logged by targets
 - Pre-attack snapshots for easy rollback
 - Post-attack snapshots for evidence preservation
 
----
 
-## Future Expansion Plans
 
-- [ ] Add pfSense firewall (192.168.100.1)
-- [ ] Deploy Suricata IDS
-- [ ] Add Metasploitable 3 target
-- [ ] Implement ELK stack for log correlation
-- [ ] Add Windows Server file share for lateral movement testing
+
